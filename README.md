@@ -1,4 +1,5 @@
-# csgo_econ_viz
+# CS:GO Economy Tool
+[Live App](https://counter-strike-analytics.streamlit.app/)
 Data Analysis and Visualization project on CS:GO economy from 11/2015 to 03/2020
 
 The project focuses on analyzing performance and trends of teams by:
