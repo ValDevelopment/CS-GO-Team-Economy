@@ -1,5 +1,5 @@
 # Indie Game Publisher Recommender
-[Live App](https://counter-strike-analytics.streamlit.app/)
+[Live App](https://indie-publisher-search.streamlit.app/)
 
 A content-based recommender system designed to help indie developers identify potential publishers through historical catalog similarity.
 
